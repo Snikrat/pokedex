@@ -68,6 +68,3 @@ Este projeto está licenciado sob a Licença [MIT](https://opensource.org/licens
 ---
 
 **Enjoy!** 🚀
-<p align="center">
-<img src="https://i.imgur.com/FSwh8i7.png" alt="Descrição da imagem" width="300" height="200">
-</p>
