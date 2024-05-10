@@ -1,6 +1,8 @@
 # Pokedex App
 
-![Pokedex](https://imgur.com/a/X7q9VCi)
+<p align="center">
+<img src="https://i.imgur.com/FSwh8i7.png" alt="Descrição da imagem" width="200" height="400">
+</p>
 
 ---
 
@@ -55,7 +57,7 @@ Contribuições são bem-vindas! Se você deseja propor melhorias, corrigir bugs
 
 ## Autor
 
-[Felippe Gonç](https://github.com/Snikrat)
+[Felippe Gonçalves](https://github.com/Snikrat)
 
 ---
 
@@ -66,3 +68,6 @@ Este projeto está licenciado sob a Licença [MIT](https://opensource.org/licens
 ---
 
 **Enjoy!** 🚀
+<p align="center">
+<img src="https://i.imgur.com/FSwh8i7.png" alt="Descrição da imagem" width="300" height="200">
+</p>
